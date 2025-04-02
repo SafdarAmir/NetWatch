@@ -11,7 +11,7 @@ $config_file = "app.conf";
 $workflows_file = "workflows.json";
 
 $log_file = "app_front.log";
-$default_tz = "Europe/Berlin";
+$default_tz = "Asia/Kuala_Lumpur";
 
 
 $fullConfPath = $configFolderPath.$config_file;

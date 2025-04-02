@@ -1,11 +1,4 @@
-<!-- ---------------------------------------------------------------------------
-#  NetAlertX
-#  Open Source Network Guard / WIFI & LAN intrusion detector 
-#
-#  notificacion.php - Front module. Common notification & modal window
-#-------------------------------------------------------------------------------
-#  Puche 2021 / 2022+ jokob             jokob@duck.com                GNU GPLv3
-#--------------------------------------------------------------------------- -->
+
 
 <!-- Modal Ok -->
 <div class="modal fade" id="modal-ok" style="display: none;">

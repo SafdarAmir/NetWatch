@@ -1,11 +1,4 @@
-<!-- ---------------------------------------------------------------------------
-#  NetAlertX
-#  Open Source Network Guard / WIFI & LAN intrusion detector 
-#
-#  header.php - Front module. Common header to all the web pages 
-#-------------------------------------------------------------------------------
-#  Puche 2021 / 2022+ jokob             jokob@duck.com                GNU GPLv3
-#--------------------------------------------------------------------------- -->
+
 
 <?php
   require dirname(__FILE__).'/../server/init.php';
@@ -72,7 +65,7 @@
         apply the skin class to the body tag so the changes take effect. -->
   <link rel="stylesheet" href="lib/AdminLTE/dist/css/skins/<?php echo $pia_skin_selected;?>.min.css">
 
-  <!-- NetAlertX CSS -->
+  <!-- NetWatch CSS -->
   <link rel="stylesheet" href="css/app.css">
 
 

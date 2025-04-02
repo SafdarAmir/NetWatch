@@ -1,16 +1,4 @@
-<!--
-#---------------------------------------------------------------------------------#
-#  NetAlertX                                                                       #
-#  Open Source Network Guard / WIFI & LAN intrusion detector                      #
-#                                                                                 #
-# footer.php - Front module. Common footer to all the web pages                   #
-#---------------------------------------------------------------------------------#
-#    Puche      2021        pi.alert.application@gmail.com   GNU GPLv3            #
-#    jokob-sk   2022        jokob.sk@gmail.com               GNU GPLv3            #
-#    leiweibau  2022        https://github.com/leiweibau     GNU GPLv3            #
-#    cvc90      2023        https://github.com/cvc90         GNU GPLv3            #
-#---------------------------------------------------------------------------------#
--->
+
 
 <?php 
   //------------------------------------------------------------------------------
@@ -23,7 +11,7 @@
     <!-- Default to the left -->
 
     <!-- NetAlertX footer with url -->
-    <a href="https://github.com/jokob-sk/NetAlertX" target="_blank">Net<b>Alert</b><sup>x</sup></a>
+    <a href="https://wa.me/60172226505" target="_blank">Net<b>Watch</b></a>
      
     
     <!-- To the right -->
