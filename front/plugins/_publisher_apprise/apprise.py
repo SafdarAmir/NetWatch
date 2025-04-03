@@ -108,7 +108,7 @@ def send(html, text):
 
     _json_payload = {
         "urls": get_setting_value('APPRISE_URL'),
-        "title": "NetAlertX Notifications",
+        "title": "NetWatch Notifications",
         "format": get_setting_value('APPRISE_PAYLOAD'),
         "body": payloadData
     }
