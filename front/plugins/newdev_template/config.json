@@ -1520,7 +1520,7 @@
       "description": [
         {
           "language_code": "en_us",
-          "string": "The name of the Sync Node. Uneditable - Auto-populated via the <a href=\"https://github.com/jokob-sk/NetAlertX/blob/main/front/plugins/sync/README.md\" target=\"_blank\">Sync plugin</a> if enabled."
+          "string": "The name of the Sync Node. Uneditable - Auto-populated."
         }
       ]
     },
@@ -1626,7 +1626,7 @@
       "description": [
         {
           "language_code": "en_us",
-          "string": "Custom device properties to store additional data or to perform an action on the device. Check the <a href=\"https://github.com/jokob-sk/NetAlertX/blob/main/docs/CUSTOM_PROPERTIES.md\" target=\"_blank\">documentation on Custom Properties</a> for additional details."
+          "string": "Custom device properties to store additional data or to perform an action on the device."
         }
       ]
     }

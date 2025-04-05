@@ -36,7 +36,7 @@ UI_PRESENCE       = ['online', 'offline', 'archived']
 UI_MY_DEVICES     = ['online', 'offline', 'archived', 'new', 'down']  
 UI_NOT_RANDOM_MAC = []
 DAYS_TO_KEEP_EVENTS     = 90 
-REPORT_DASHBOARD_URL    = 'http://netalertx/' 
+REPORT_DASHBOARD_URL    = 'http://netwatch/' 
 
 # -------------------------------------------
 # Misc

@@ -80,7 +80,7 @@ if (isset ($_SESSION["login"]) == FALSE || $_SESSION["login"] != 1)
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>NetAlert X | Log in</title>
+  <title>NetWatch | Log in</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -113,7 +113,7 @@ switch ($UI_THEME) {
 <body class="hold-transition login-page col-sm-12 col-sx-12">
 <div class="login-box login-custom">
   <div class="login-logo">
-    <a href="/index2.php">Net<b>Alert</b><sup>x</sup></a>
+    <a href="/index2.php">Net<b>Watch</b></a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
