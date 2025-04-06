@@ -378,13 +378,13 @@ def importConfigs (db, all_plugins):
         
         if str(cur_version) != str(buildTimestamp):
             
-            mylog('none', ['[Config] App upgraded 🚀'])      
+            mylog('none', ['[Config] App Loaded 🚀'])      
                  
             # ccd(key, default, config_dir, name, inputtype, options, group, events=None, desc="", setJsonMetadata=None, overrideTemplate=None, forceDefault=False)
             ccd('VERSION', buildTimestamp , c_d, '_KEEP_', '_KEEP_', '_KEEP_', '_KEEP_', None, "_KEEP_", None, None, True)
             
             write_notification(
-    f'[Upgrade] : App upgraded 🚀 Please clear the cache: '
+    f'[Status] : App Loaded 🚀 Please clear the cache: '
     '<ol> '
     '<li>Click OK below</li> '
     '<li>Clear the browser cache (shift + browser refresh button)</li> '

@@ -1,4 +1,4 @@
-<!-- NetAlertX CSS -->
+<!-- NetWatch CSS -->
 <link rel="stylesheet" href="css/app.css">
 
 <?php
@@ -95,7 +95,7 @@ if (isset ($_SESSION["login"]) == FALSE || $_SESSION["login"] != 1)
   <link rel="stylesheet" href="lib/font-awesome/all.min.css">
 
   <!-- Favicon -->
-  <link id="favicon" rel="icon" type="image/x-icon" href="img/NetAlertX_logo.png">
+  <link id="favicon" rel="icon" type="image/x-icon" href="img/NetWatch_Logo_HD.png">
 
   <!-- Dark-Mode Patch -->
 <?php
